@@ -1,0 +1,18 @@
+{
+  "server_status": "true",
+  "server_message": "Sorry for the inconvenience, server is under maintenance, it may take upto 2 days.",
+  "database_link": "https://sketchub.in/api/v2/",
+  "version": "41",
+  "category_version": "1",
+  "project_type_version": "1",
+  "necessary_update_version": "41",
+  "web_dialog": "false",
+  "web_dialog_url": "https://sketchub.in/dc_invite/",
+  "update_message": "What's New:\n• Fixed various crashes\n• Fixed app icon not showing\n• Fixed the comment getting clear when changing user mention\n• Added download counter in project listing\n• Projects will be downloaded in Downloads folder in Android 10+ devices",
+  "update_link": "https://sketchub.in",
+  "project_share_link": "https://web.sketchub.in/p/{{PROJECT_ID}}",
+  "user_share_link": "https://web.sketchub.in/u/{{USER_NAME}}",
+  "payment_link": "https://www.paypal.me/rohitkumargd",
+  "java_link": "https://codehive.sketchub.in/api/",
+  "play_store_link": "https://play.google.com/store/apps/details?id=in.sketchub.app"
+}
